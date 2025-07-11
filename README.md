@@ -36,20 +36,3 @@ Let’s create something awesome together!
   มาร่วมสร้างสิ่งดี ๆ ด้วยกันนะครับ
 
 ---
-## 🏆 Language Stats from All My Repositories
-
-| Repository                                      | Languages Used                                  |
-|-------------------------------------------------|-------------------------------------------------|
-| [BeyondHana](https://github.com/etsuwithtea/BeyondHana)           | C# (100%)                                       |
-| [BeyondHanaOLD](https://github.com/etsuwithtea/BeyondHanaOLD)     | C# (100%)                                       |
-| [etsu-portfolio](https://github.com/etsuwithtea/etsu-portfolio)   | JavaScript (90.8%), CSS (6.9%), HTML (2.3%)     |
-| [etsuwithtea](https://github.com/etsuwithtea/etsuwithtea)         | _(No language data available)_                  |
-| [Power-Transformer-Unit-Management-System](https://github.com/etsuwithtea/Power-Transformer-Unit-Management-System) | TypeScript (99.6%), Other (0.4%)                |
-| [Eatraidee](https://github.com/Jabiby7561/Eatraidee)              | Java (100%)                                     |
-| [xo_game](https://github.com/etsuwithtea/xo_game)                 | TypeScript (54.6%), CSS (36.1%), JavaScript (6.5%), HTML (2.8%) |
-| [ihavetickets](https://github.com/etsuwithtea/ihavetickets)       | Python (100%)                                   |
-
----
-
-> รวมข้อมูลสถิติภาษาโปรแกรมจากทุก repository ที่เกี่ยวข้องกับ etsuwithtea  
-> อัปเดตล่าสุด: 2025-07-11
