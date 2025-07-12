@@ -7,12 +7,7 @@
 
 ## 🌸 Portfolio
 
-**EN:**  
-See my works and more details at  
-👉 [https://etsuwithtea.github.io/etsu-portfolio/](https://etsuwithtea.github.io/etsu-portfolio/)
-
-**TH:**  
-ดูผลงานและรายละเอียดเพิ่มเติมได้ที่  
+See my works and more details at  / ดูผลงานและรายละเอียดเพิ่มเติมได้ที่  
 👉 [https://etsuwithtea.github.io/etsu-portfolio/](https://etsuwithtea.github.io/etsu-portfolio/)
 
 ---
