@@ -14,14 +14,14 @@ See my works and more details at  / ดูผลงานและรายล�
 
 ## 👩‍💻 About Me
 
-**EN:**  
+**🇬🇧** 
 Hi, I'm Navapan (my friends call me est/etsu).  
 A Computer Science student who enjoys bringing ideas to life through code and design. I'm passionate about Frontend Development and UX/UI Design, and I love creating digital experiences that are both intuitive and engaging.  
 I’m always curious about how things work and how to improve them—whether it’s through cleaner code, better design, or a smoother user flow.  
 When I’m not coding or designing, you’ll probably find me watching anime or reading manga—my favorite way to relax and get inspired.  
 Let’s create something awesome together!
 
-**TH:**  
+**🇹🇭** 
   สวัสดีครับ ผมชื่อ นวพรรษ์ (เพื่อน ๆ เรียก est หรือ etsu)  
   เป็นนักศึกษาวิทยาการคอมพิวเตอร์ที่ชอบทำไอเดียให้กลายเป็นจริงผ่านโค้ดและงานออกแบบ สนใจด้าน Frontend Development และ UX/UI Design และชอบสร้างประสบการณ์ดิจิทัลที่ใช้งานง่ายและน่าสนใจ  
   
