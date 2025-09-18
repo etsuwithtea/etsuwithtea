@@ -50,9 +50,7 @@ Let’s create something awesome together!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tkinter/tkinter-original.svg" height="40" alt="tkinter" />
-  <span style="font-size: 32px; vertical-align: middle;">customtkinter</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
-  <span style="font-size: 32px; vertical-align: middle;">.NET MAUI</span>
 </div>
 
 ### 🛠️ Tools & IDEs
