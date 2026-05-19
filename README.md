@@ -77,11 +77,16 @@
 ---
 
 ## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://img.shields.io/github/followers/etsuwithtea?label=Followers&style=for-the-badge&logo=github&color=38bdf8&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/etsuwithtea/etsu-portfolio?label=Portfolio%20Stars&style=for-the-badge&logo=github&color=38bdf8&logoColor=white" />
+</div>
+
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=etsuwithtea&show_icons=true&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&bg_color=0f172a&border_color=1e293b&hide_border=false&show=reviews,discussions,prs_merged,prs_merged_compare" height="150" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etsuwithtea&layout=compact&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&bg_color=0f172a&border_color=1e293b&hide_border=false" height="150" alt="Top Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=etsuwithtea&bg_color=0f172a&color=38bdf8&line=38bdf8&point=cbd5e1&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 <br />
